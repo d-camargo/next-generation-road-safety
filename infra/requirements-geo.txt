@@ -1,0 +1,76 @@
+# Congelamento do venv `~/.venvs/geo`, gerado com `uv pip freeze`, em
+# 2026-09-06.
+#
+# Isto é versionado porque a versão da biblioteca muda o resultado da
+# análise espacial: um `libpysal`/`esda` diferente dá outro Moran, um GEOS
+# diferente (embutido via `shapely`/`pyogrio`) dá outro polígono. É a mesma
+# exigência de proveniência que este repo já faz do dado.
+#
+# Para recriar o venv do zero:
+#
+#     uv venv ~/.venvs/geo --python 3.12
+#     uv pip install --python ~/.venvs/geo/bin/python -r infra/requirements-geo.txt
+#
+affine==3.0.1
+attrs==26.1.0
+beautifulsoup4==4.15.0
+certifi==2026.7.22
+charset-normalizer==3.5.1
+click==8.5.0
+click-plugins==1.1.1.2
+cligj==0.7.2
+cloudpickle==3.1.2
+contourpy==1.3.3
+cycler==0.12.1
+esda==2.10.0
+fiona==1.10.1
+fonttools==4.64.0
+geoalchemy2==0.20.0
+geopandas==1.1.4
+giddy==2.3.9
+greenlet==3.5.5
+idna==3.19
+jinja2==3.1.6
+joblib==1.6.0
+kiwisolver==1.5.1
+libpysal==4.15.0
+llvmlite==0.49.0
+mapclassify==2.11.0
+markupsafe==3.0.3
+matplotlib==3.11.1
+momepy==1.0.0
+mpmath==1.3.0
+narwhals==2.25.0
+networkx==3.6.1
+numba==0.67.0
+numpy==2.5.2
+osmnx==2.1.1
+packaging==26.3
+pandas==3.0.5
+pillow==12.3.0
+platformdirs==4.11.7
+psycopg2-binary==2.9.12
+pygeoda==0.1.3
+pyogrio==0.13.0
+pyparsing==3.3.2
+pyproj==3.8.0
+pyreadstat==1.3.6
+python-dateutil==2.9.0.post0
+quantecon==0.11.4
+rasterio==1.5.1
+requests==2.34.2
+rtree==1.4.1
+scikit-learn==1.9.0
+scipy==1.18.1
+seaborn==0.13.2
+shapely==2.1.2
+six==1.17.0
+soupsieve==2.9.2
+splot==1.1.7
+spreg==1.9.1
+sqlalchemy==2.0.52
+sympy==1.14.0
+threadpoolctl==3.6.0
+tqdm==4.70.0
+typing-extensions==4.16.0
+urllib3==2.7.0

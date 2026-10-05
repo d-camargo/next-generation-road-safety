@@ -1,0 +1,26 @@
+{
+  "script": "bin/lisa_decomposicao_hh.py",
+  "gerado_em": "2026-10-04T18:56:36.999423+00:00",
+  "painel_caminho": "/home/diego/projects/dados/build/painel_corredores.csv",
+  "painel_sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5",
+  "painel": {
+    "caminho": "/home/diego/projects/dados/build/painel_corredores.csv",
+    "sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5"
+  },
+  "csv_sha256": "45c7d942e5ad860605824c7ad92bed169d3b1ba88ad808cb52231cea7f7682ec",
+  "sha256": "45c7d942e5ad860605824c7ad92bed169d3b1ba88ad808cb52231cea7f7682ec",
+  "permutacoes": 9999,
+  "sementes": [
+    12345,
+    1,
+    2,
+    3,
+    4
+  ],
+  "alpha": 0.05,
+  "versoes": {
+    "esda": "2.10.0",
+    "libpysal": "4.15.0",
+    "numpy": "2.5.2"
+  }
+}

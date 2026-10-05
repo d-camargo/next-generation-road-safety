@@ -1,0 +1,31 @@
+{
+  "script": "bin/precisao_corredores.py",
+  "gerado_em": "2026-10-04T13:33:04.176338+00:00",
+  "painel_caminho": "/home/diego/projects/dados/build/painel_corredores.csv",
+  "painel_sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5",
+  "sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5",
+  "painel": {
+    "caminho": "/home/diego/projects/dados/build/painel_corredores.csv",
+    "sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5"
+  },
+  "versoes": {
+    "scipy": "1.18.1"
+  },
+  "definicao_classes": {
+    "anos_1_3": [
+      1,
+      2,
+      3
+    ],
+    "anos_4_6": [
+      4,
+      5,
+      6
+    ],
+    "anos_7_9": [
+      7,
+      8,
+      9
+    ]
+  }
+}

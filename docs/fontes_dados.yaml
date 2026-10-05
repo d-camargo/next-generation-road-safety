@@ -1,0 +1,36 @@
+# Fontes de dados do trabalho — declaração aprovada pelo Diego.
+fontes:
+  - repo: /home/diego/projects/dados
+    commit: 6f85484
+    arquivos:
+      - bases/prf-acidentes/METODO-ESPACIAL.md
+      - bases/prf-acidentes/ACHADOS.md
+      - bases/prf-acidentes/afirmacoes.json
+      - bases/prf-acidentes/series/*.csv
+  - local: /home/diego/projects/dados/build/moran_corredores.csv
+    sha256: 320ec155afd4cd14e903240949eedad14f9f7ae004b176552f30f9f8566d26b2
+    origem: "saída de bin/moran_corredores.py (repo dados), não versionada"
+  - local: /home/diego/projects/dados/build/lisa_corredores.csv
+    sha256: 2f57afe358151037a8f2074a8da08ac4259dc52286ede540b9bbc9dc4c20ebea
+    origem: "saída de bin/moran_corredores.py (repo dados), não versionada"
+  - repo: /home/diego/projects/dados
+    commit: fc132e4
+    arquivos:
+      - bases/prf-acidentes/resultados/associacao_condicionada_corredores.csv
+  - local: /home/diego/projects/dados/build/painel_corredores.csv
+    sha256: "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5"
+    origem: "saída de bin/painel_corredores.py"
+  - repo: /home/diego/projects/dados
+    commit: 00ed84e
+    arquivos:
+      - bases/prf-acidentes/resultados/precisao_amostral_corredores.csv
+
+# Convenções de método, não dados: não precisam de lastro nas fontes.
+# 22304: contagem de bins elementares de 1 km elegiveis nos 10 corredores (2026-10-04)
+# 22135: extensao efetiva em km dos bins com exposicao no painel 5 km (2026-10-04)
+# 22203: extensao efetiva em km dos bins com exposicao no painel 10 km (2026-10-04)
+# 22279: extensao efetiva em km dos bins com exposicao no painel 20 km (2026-10-04)
+# 17071: extensao efetiva em km do painel balanceado 5 km (2026-10-04)
+# 17814: extensao efetiva em km do painel balanceado 10 km (2026-10-04)
+# 19026: extensao efetiva em km do painel balanceado 20 km (2026-10-04)
+constantes: [0.05, 0.001, 9999, 365, 366, 4674, 5, 10, 20, 2000, 2017, 2018, 2019, 2020, 2022, 2023, 2024, 2025, 15, 22304, 22135, 22203, 22279, 17071, 17814, 19026]  # 5/10/20 = escalas de faixa (desenho)

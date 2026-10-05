@@ -1,0 +1,250 @@
+{
+  "arquivos": {
+    "dnit_snv_mg": {
+      "arquivo_local": "raw/geo-referencia/dnit_snv_mg_202507a.geojson",
+      "baixado_em": "2026-09-07T23:03:21+00:00",
+      "fonte": "DNIT/SNV via WFS INDE (geoservicos.inde.gov.br)",
+      "sha256": "0930895d6f872c4f671abae4715dea800b376d019ea88f707d70b968f8452da3",
+      "type_name": "DNIT:snv_202507a",
+      "url": "https://geoservicos.inde.gov.br/geoserver/DNIT/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=DNIT%3Asnv_202507a&outputFormat=application%2Fjson&srsName=EPSG%3A4674&CQL_FILTER=sg_uf%3D%27MG%27",
+      "versao_snv": "202507a"
+    },
+    "municipios_mg_2024": {
+      "ano": "2024",
+      "arquivo_local": "raw/geo-referencia/31municipality_2024.gpkg",
+      "baixado_em": "2026-09-07T23:03:14+00:00",
+      "code_uf": "31",
+      "fonte": "IBGE via IPEA/geobr (metadata v1.7.0, GPKG legacy)",
+      "geo": "municipality",
+      "sha256": "4105eb468a71ba9f96ed43404b88fc7e08ff9c715cb4d3a20b9f5e5a49845df3",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/municipality/2024/31municipality_2024.gpkg"
+    },
+    "dnit_snv_corredores": {
+      "arquivo_local": "raw/geo-referencia/dnit_snv_corredores_202507a.geojson",
+      "baixado_em": "2026-10-03T15:22:00+00:00",
+      "fonte": "DNIT/SNV via WFS INDE (geoservicos.inde.gov.br)",
+      "sha256": "9c04a08dbbb7c737a7bfd7f6dba90510ce67cfe1371423b41273bf917e72036b",
+      "type_name": "DNIT:snv_202507a",
+      "url": "https://geoservicos.inde.gov.br/geoserver/DNIT/ows?service=WFS&version=2.0.0&request=GetFeature&typeName=DNIT%3Asnv_202507a&outputFormat=application%2Fjson&srsName=EPSG%3A4674&CQL_FILTER=vl_br+IN+%28%27050%27%2C%27101%27%2C%27116%27%2C%27135%27%2C%27153%27%2C%27158%27%2C%27163%27%2C%27364%27%2C%27376%27%2C%27381%27%29",
+      "versao_snv": "202507a",
+      "nota": "10 BRs do recorte dos corredores (050,101,116,135,153,158,163,364,376,381), pais inteiro, 2158 trechos — insumo de bin/gera_mapa_corredores.py"
+    },
+    "state_2019_11": {
+      "arquivo_local": "raw/geo-referencia/states2019/11state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "5ecac23aee58590216fbc85698ac1db592d4986c7f06cb3e0ba9a69b3ec2a24a",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/11state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_12": {
+      "arquivo_local": "raw/geo-referencia/states2019/12state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "07dae904763f19adf7888e2317ac2d812159ab65470739eafe8910e9db713501",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/12state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_13": {
+      "arquivo_local": "raw/geo-referencia/states2019/13state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "40dc92f28135c59660b3dfc9fcb31ffd1634b895290fd436996099f889ad07ca",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/13state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_14": {
+      "arquivo_local": "raw/geo-referencia/states2019/14state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "b18c44b5f16d991fac5a5e6059d7472f9331aba7d95fea276eba47939d8431e9",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/14state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_15": {
+      "arquivo_local": "raw/geo-referencia/states2019/15state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "ad40a6b5f03aef2aec9c0a718a033d22f451f64b5c463df4023d62f518fa631b",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/15state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_16": {
+      "arquivo_local": "raw/geo-referencia/states2019/16state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "5daad05e8d8e0d8c516ed8603fafe01b64680286565175002fbebad57dcdb090",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/16state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_17": {
+      "arquivo_local": "raw/geo-referencia/states2019/17state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "a5efae88ba29d236c884e0b0d10cb645ce27b7a8f6de5a765440284e767a6588",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/17state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_21": {
+      "arquivo_local": "raw/geo-referencia/states2019/21state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "9f0eda47205bd4b363165c8ec8d677143728ab658e4f8ccc5205acd006cb7110",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/21state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_22": {
+      "arquivo_local": "raw/geo-referencia/states2019/22state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "f2d68bd614e4cb3c471fc18eb702f6ee388bc8d326cec9b999ca7a69d5ca2c90",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/22state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_23": {
+      "arquivo_local": "raw/geo-referencia/states2019/23state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:51+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "2071bb163c912a4c718e04064bdc3ebfdf235b0d5bb237bd2d102e815a01af7f",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/23state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_24": {
+      "arquivo_local": "raw/geo-referencia/states2019/24state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:51+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "9eec939570e5c022f86682fbc1f4800eddba03cb49e68ac40da8aca195ffd9a6",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/24state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_25": {
+      "arquivo_local": "raw/geo-referencia/states2019/25state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:52+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "d86a2920bd4cdf1932f35bb26265318d71bd7dbb89a4588fb207815db31c3a6f",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/25state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_26": {
+      "arquivo_local": "raw/geo-referencia/states2019/26state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:52+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "49659dc535aa8bb089679eead4e05256267a2f6919ed2f3b1720d7c04c856cf6",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/26state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_27": {
+      "arquivo_local": "raw/geo-referencia/states2019/27state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:52+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "ce4bb170be3f981404e16b0f74b6d2e0924267d8584c8ada9b83879b6433078d",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/27state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_28": {
+      "arquivo_local": "raw/geo-referencia/states2019/28state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:52+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "bd5cd129ac41a35521329825d19790ce1554818b6de6fb84dd7e0db7ebad580e",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/28state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_29": {
+      "arquivo_local": "raw/geo-referencia/states2019/29state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:52+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "92a97f3698a4339ec637b11ddacc688333ab98a45aa68964eab0eaa0b9fd9ff4",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/29state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_31": {
+      "arquivo_local": "raw/geo-referencia/states2019/31state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:52+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "5dc06a3141f27740b4f8dc22a82a12e73dc84fd0f5046100caa16ce30efd5f42",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/31state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_32": {
+      "arquivo_local": "raw/geo-referencia/states2019/32state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:53+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "aebaf171166ea3fb350255910fe6db4f86acda4ce3c40b4220b2c63c069aa2d6",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/32state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_33": {
+      "arquivo_local": "raw/geo-referencia/states2019/33state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:09:53+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "9506607f37959f4db8ac60fe7733949f89dba705d7cc6ab0e1d8eedb3e4dcdba",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/33state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_35": {
+      "arquivo_local": "raw/geo-referencia/states2019/35state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:29+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "4c1842c844fec5d07c0370024f4412bdfd414b2707407d90345196557bd51a98",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/35state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_41": {
+      "arquivo_local": "raw/geo-referencia/states2019/41state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "1b602fb6783cbc3928a687d02dd0e8fbc9f1f930cf1b76a827154675d5690f89",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/41state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_42": {
+      "arquivo_local": "raw/geo-referencia/states2019/42state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "691838a0d8b5bef834ee05d034392df8bbbc867202f185cb4246b3fffd82bfde",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/42state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_43": {
+      "arquivo_local": "raw/geo-referencia/states2019/43state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "d7f028639c9c78a1b344642f0e666400a23db5bb9d1bb04d89ad51e898579090",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/43state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_50": {
+      "arquivo_local": "raw/geo-referencia/states2019/50state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "2a2a95b27092f7ade28e98fad785fc4b4a95cc7ebb0019bade13bdddb90d8848",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/50state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_51": {
+      "arquivo_local": "raw/geo-referencia/states2019/51state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "b1fde634728cbef2f20a615514e5eea3ebd3bd52dbb40b5e2f3806c34f824fcc",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/51state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_52": {
+      "arquivo_local": "raw/geo-referencia/states2019/52state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:30+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "c46b355f4191dce8aab5be9e6cbccfe77ecce6ae3efdb86f140f9e18a2b562e9",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/52state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    },
+    "state_2019_53": {
+      "arquivo_local": "raw/geo-referencia/states2019/53state_2019_simplified.gpkg",
+      "baixado_em": "2026-10-03T16:10:31+00:00",
+      "fonte": "IBGE via IPEA/geobr (GPKG legacy, state 2019 simplified)",
+      "sha256": "11e658fb7f6614c9bbada9c0144158705c2f132dad7a6a88be21569334f45f04",
+      "url": "https://www.ipea.gov.br/geobr/data_gpkg/state/2019/53state_2019_simplified.gpkg",
+      "nota": "malha estadual de contexto das figuras nacionais (bin/gera_figura_mapa_nacional.py)"
+    }
+  },
+  "slug": "geo-referencia"
+}

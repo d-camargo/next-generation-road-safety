@@ -1,0 +1,416 @@
+{
+  "slug": "prf-acidentes",
+  "nome": "Acidentes de trânsito em rodovias federais (BAT, agrupados por ocorrência)",
+  "autor": "POLÍCIA RODOVIÁRIA FEDERAL (PRF)",
+  "url": "https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-da-prf",
+  "periodicidade": "mensal",
+  "descricao": "Proveniência dos dados de acidentes em rodovias federais agrupados por ocorrência (Boletim de Acidente de Trânsito — BAT / PRF), 2007–2026.",
+  "arquivos": [
+    {
+      "ano": 2007,
+      "url": "https://drive.usercontent.google.com/download?id=1EFpZF5F6cB0DOHd2Uxnj7X948WE69a8e&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1EFpZF5F6cB0DOHd2Uxnj7X948WE69a8e/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2007.zip",
+      "tamanho_bytes": 3078464,
+      "sha256": "8723ba7ad6ca9979b86b39e2488b0ccf2aee5fa63a0d1135880c2577caf950e1",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2007.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1EFpZF5F6cB0DOHd2Uxnj7X948WE69a8e",
+      "tabela_origem": "Acidentes 2007 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2008,
+      "url": "https://drive.usercontent.google.com/download?id=1_OSeHlyKJw8cIhMS_JzSg1RlYX8k6vSG&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1_OSeHlyKJw8cIhMS_JzSg1RlYX8k6vSG/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2008.zip",
+      "tamanho_bytes": 3383500,
+      "sha256": "4c56a3ad8d418a2107aacd64dc10a23976f5508c2935479f1ae24a5d4097a7ae",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2008.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1_OSeHlyKJw8cIhMS_JzSg1RlYX8k6vSG",
+      "tabela_origem": "Acidentes 2008 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2009,
+      "url": "https://drive.usercontent.google.com/download?id=1qkVatg0pC_zosuBs0NCSgEXDJvBbnTYC&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1qkVatg0pC_zosuBs0NCSgEXDJvBbnTYC/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2009.zip",
+      "tamanho_bytes": 3795569,
+      "sha256": "ef5a00393572b4742928ba04e26a0177a20ae1817d7b261f3d8d4378005ac8ac",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2009.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1qkVatg0pC_zosuBs0NCSgEXDJvBbnTYC",
+      "tabela_origem": "Acidentes 2009 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2010,
+      "url": "https://drive.usercontent.google.com/download?id=1_yU6FRh8M7USjiChQwyF20NtY48GTmEX&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1_yU6FRh8M7USjiChQwyF20NtY48GTmEX/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2010.zip",
+      "tamanho_bytes": 4394611,
+      "sha256": "8d665f411a01af2181da8f0e8300e24d810839cdd7364cc9f72fda4d14bfafa6",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2010.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1_yU6FRh8M7USjiChQwyF20NtY48GTmEX",
+      "tabela_origem": "Acidentes 2010 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2011,
+      "url": "https://drive.usercontent.google.com/download?id=1HHhgLF-kSR6Gde2qOaTXL3T5ieD33hpG&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1HHhgLF-kSR6Gde2qOaTXL3T5ieD33hpG/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2011.zip",
+      "tamanho_bytes": 4600829,
+      "sha256": "e2b3dc33756cf22546b691fff435348087458e44fc67d3d2eb2730f09e5c5933",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2011.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1HHhgLF-kSR6Gde2qOaTXL3T5ieD33hpG",
+      "tabela_origem": "Acidentes 2011 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2012,
+      "url": "https://drive.usercontent.google.com/download?id=18Yz2prqKSLthrMmW-73vrOiDmKTCL6xE&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/18Yz2prqKSLthrMmW-73vrOiDmKTCL6xE/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2012.zip",
+      "tamanho_bytes": 4641569,
+      "sha256": "5c1336e3fa05a5d80429ec928955f4f7a9c06f1feeceebf8997262f1863be99c",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2012.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "18Yz2prqKSLthrMmW-73vrOiDmKTCL6xE",
+      "tabela_origem": "Acidentes 2012 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2013,
+      "url": "https://drive.usercontent.google.com/download?id=1p_7lw9RzkINfscYAZSmc-Z9Ci4ZPJyEr&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1p_7lw9RzkINfscYAZSmc-Z9Ci4ZPJyEr/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2013.zip",
+      "tamanho_bytes": 4707582,
+      "sha256": "f79e5bc4f60e4ff923bf96ccaad80f0a6a1bae49a04ca2a26a61a5749e747175",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2013.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1p_7lw9RzkINfscYAZSmc-Z9Ci4ZPJyEr",
+      "tabela_origem": "Acidentes 2013 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2014,
+      "url": "https://drive.usercontent.google.com/download?id=1FpF5wTBsRDkEhLm3z2g8XDiXr9SO9Uk8&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1FpF5wTBsRDkEhLm3z2g8XDiXr9SO9Uk8/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2014.zip",
+      "tamanho_bytes": 4304737,
+      "sha256": "b2416bd4ecb4886579615ee9ff722e23f650496ef12a46a317aac953a9466dc7",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2014.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1FpF5wTBsRDkEhLm3z2g8XDiXr9SO9Uk8",
+      "tabela_origem": "Acidentes 2014 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2015,
+      "url": "https://drive.usercontent.google.com/download?id=1DyqR5FFcwGsamSag-fGm13feQt0Y-3Da&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1DyqR5FFcwGsamSag-fGm13feQt0Y-3Da/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2015.zip",
+      "tamanho_bytes": 3163538,
+      "sha256": "07ac0fdbbb149614ff1345384dab6d09b36d5b302a7dccc4a8c4bdfe8b2d9186",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2015.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1DyqR5FFcwGsamSag-fGm13feQt0Y-3Da",
+      "tabela_origem": "Acidentes 2015 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2016,
+      "url": "https://drive.usercontent.google.com/download?id=16qooQl_ySoW61CrtsBbreBVNPYlEkoYm&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/16qooQl_ySoW61CrtsBbreBVNPYlEkoYm/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2016.zip",
+      "tamanho_bytes": 2518479,
+      "sha256": "27438f9a66969b57a797eedad795c8058de3ee0a8e7e235b8c3d36228a23c7bd",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2016.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "16qooQl_ySoW61CrtsBbreBVNPYlEkoYm",
+      "tabela_origem": "Acidentes 2016 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2017,
+      "url": "https://drive.usercontent.google.com/download?id=1HPLWt5f_l4RIX3tKjI4tUXyZOev52W0N&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1HPLWt5f_l4RIX3tKjI4tUXyZOev52W0N/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2017.zip",
+      "tamanho_bytes": 4248009,
+      "sha256": "b5d40934c644e61fed2d70b332aca55b5f4bb293a90cf1771749cd2e2fc20fba",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2017.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1HPLWt5f_l4RIX3tKjI4tUXyZOev52W0N",
+      "tabela_origem": "Acidentes 2017 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2018,
+      "url": "https://drive.usercontent.google.com/download?id=1cM4IgGMIiR-u4gBIH5IEe3DcvBvUzedi&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1cM4IgGMIiR-u4gBIH5IEe3DcvBvUzedi/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2018.zip",
+      "tamanho_bytes": 3294461,
+      "sha256": "a8eab316cc17c1af4d2295a5617c5cce37b57b4737a0d76ce902ed4e7c91084c",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2018.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1cM4IgGMIiR-u4gBIH5IEe3DcvBvUzedi",
+      "tabela_origem": "Acidentes 2018 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2019,
+      "url": "https://drive.usercontent.google.com/download?id=1pN3fn2wY34GH6cY-gKfbxRJJBFE0lb_l&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1pN3fn2wY34GH6cY-gKfbxRJJBFE0lb_l/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2019.zip",
+      "tamanho_bytes": 3237669,
+      "sha256": "3a7022edf4690334aae309cb1b01a7c98649bd9a0a05ce7d0bd3e7416183155d",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2019.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1pN3fn2wY34GH6cY-gKfbxRJJBFE0lb_l",
+      "tabela_origem": "Acidentes 2019 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2020,
+      "url": "https://drive.usercontent.google.com/download?id=1esu6IiH5TVTxFoedv6DBGDd01Gvi8785&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1esu6IiH5TVTxFoedv6DBGDd01Gvi8785/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2020.zip",
+      "tamanho_bytes": 3075980,
+      "sha256": "92cb80217a17268c4f6fb8f91f36284ce90f28aac7053f0e857fafa5e838c9d8",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2020.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1esu6IiH5TVTxFoedv6DBGDd01Gvi8785",
+      "tabela_origem": "Acidentes 2020 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2021,
+      "url": "https://drive.usercontent.google.com/download?id=12xH8LX9aN2gObR766YN3cMcuycwyCJDz&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/12xH8LX9aN2gObR766YN3cMcuycwyCJDz/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2021.zip",
+      "tamanho_bytes": 3217660,
+      "sha256": "a246e0d1205860a475335f8996b532cbe2ca4c1c349bb5a1531bf47a779e3901",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2021.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "12xH8LX9aN2gObR766YN3cMcuycwyCJDz",
+      "tabela_origem": "Acidentes 2021 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2022,
+      "url": "https://drive.usercontent.google.com/download?id=1PRQjuV5gOn_nn6UNvaJyVURDIfbSAK4-&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1PRQjuV5gOn_nn6UNvaJyVURDIfbSAK4-/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2022.zip",
+      "tamanho_bytes": 3227721,
+      "sha256": "5ace05699b82c720e47e28768323630310ef7fe300db57388da246fb448c8855",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2022.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1PRQjuV5gOn_nn6UNvaJyVURDIfbSAK4-",
+      "tabela_origem": "Acidentes 2022 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2023,
+      "url": "https://drive.usercontent.google.com/download?id=1-WO3SfNrwwZ5_l7fRTiwBKRw7mi1-HUq&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1-WO3SfNrwwZ5_l7fRTiwBKRw7mi1-HUq/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2023.zip",
+      "tamanho_bytes": 3397281,
+      "sha256": "b233c47d16b3980a6692472f9fe1bbab57698700fbb918d22628a5c0a382d985",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2023.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1-WO3SfNrwwZ5_l7fRTiwBKRw7mi1-HUq",
+      "tabela_origem": "Acidentes 2023 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2024,
+      "url": "https://drive.usercontent.google.com/download?id=14lB0vqMFkaZj8HZ44b0njYgxs9nAN8KO&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/14lB0vqMFkaZj8HZ44b0njYgxs9nAN8KO/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2024.zip",
+      "tamanho_bytes": 3681095,
+      "sha256": "20cec26ae45e794d57c0f4d2c0915d3f6f84a9895b3e1b9c0cd126f075700645",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2024.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "14lB0vqMFkaZj8HZ44b0njYgxs9nAN8KO",
+      "tabela_origem": "Acidentes 2024 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2025,
+      "url": "https://drive.usercontent.google.com/download?id=1-G3MdmHBt6CprDwcW99xxC4BZ2DU5ryR&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1-G3MdmHBt6CprDwcW99xxC4BZ2DU5ryR/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2025.zip",
+      "tamanho_bytes": 3727148,
+      "sha256": "52c8a631ac9d428bf845e2fa996b8c61f66b219f7014a61d292f9d95d186bb0f",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2025.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1-G3MdmHBt6CprDwcW99xxC4BZ2DU5ryR",
+      "tabela_origem": "Acidentes 2025 (Agrupados por ocorrência)"
+    },
+    {
+      "ano": 2026,
+      "url": "https://drive.usercontent.google.com/download?id=1A3IirNm0AzRaSosA1IS94DOVmvKsn0Ol&export=download&confirm=t",
+      "url_pagina": "https://drive.google.com/file/d/1A3IirNm0AzRaSosA1IS94DOVmvKsn0Ol/view",
+      "arquivo_local": "raw/prf-acidentes/datatran2026.zip",
+      "tamanho_bytes": 2172432,
+      "sha256": "a58eaf076957b20467f2eaf18f07593780936f8ac2c0c5ae1d22c7855e72280b",
+      "data_acesso": "2026-09-06",
+      "formato": "ZIP",
+      "arquivo_interno": "datatran2026.csv",
+      "encoding": "latin-1",
+      "separador": ";",
+      "recurso_id": "1A3IirNm0AzRaSosA1IS94DOVmvKsn0Ol",
+      "tabela_origem": "Acidentes 2026 (Agrupados por ocorrência)",
+      "papel": "safra_parcial",
+      "nota": "Cobre apenas janeiro-julho de 2026 (7 meses); por isso está no manifest e fora de toda série."
+    }
+  ],
+  "series": {
+    "classificacao_por_ano_2007_2025.csv": {
+      "serie": "classificacao_por_ano",
+      "coluna_chave": "classificacao",
+      "coluna_valor": "acidentes"
+    },
+    "com_vitima_por_ano_2007_2025.csv": {
+      "serie": "com_vitima_por_ano",
+      "coluna_chave": "indicador",
+      "coluna_valor": "valor"
+    },
+    "indice_registro_2007_2025.csv": {
+      "serie": "indice_registro",
+      "coluna_chave": "serie",
+      "coluna_valor": "indice"
+    }
+  },
+  "mudancas_metodologicas": [
+    {
+      "id": "registro_sem_vitima_2015",
+      "harmonizavel": true,
+      "ano_anterior": 2014,
+      "ano_mudanca": 2015,
+      "descricao": "Degrau de jun->jul/2015 no registro de acidente sem vítima."
+    },
+    {
+      "id": "registro_sem_vitima_2018",
+      "harmonizavel": true,
+      "ano_anterior": 2017,
+      "ano_mudanca": 2018,
+      "descricao": "Degrau de mar->abr/2018 no registro de acidente sem vítima."
+    },
+    {
+      "id": "layout_colunas_2016",
+      "harmonizavel": true,
+      "ano_anterior": 2015,
+      "ano_mudanca": 2016,
+      "descricao": "Mudança de layout de colunas (26 para 25 colunas, remoção da coluna ano)."
+    },
+    {
+      "id": "layout_colunas_2017",
+      "harmonizavel": true,
+      "ano_anterior": 2016,
+      "ano_mudanca": 2017,
+      "descricao": "Mudança de layout de colunas (25 para 30 colunas, inclusão de coordenadas e estrutura administrativa)."
+    },
+    {
+      "id": "taxonomia_causa_acidente_2017",
+      "harmonizavel": false,
+      "ano_anterior": 2016,
+      "ano_mudanca": 2017,
+      "descricao": "Mudança na taxonomia de causa do acidente (11 para 24 e depois 75 rótulos, sem correspondência publicada)."
+    },
+    {
+      "id": "taxonomia_tipo_acidente_2017",
+      "harmonizavel": false,
+      "ano_anterior": 2016,
+      "ano_mudanca": 2017,
+      "descricao": "Renomeação em bloco de rótulos de tipo de acidente a partir de 2017."
+    }
+  ],
+  "escopos": {
+    "registro_pleno_2007_2014": {
+      "fronteira": "registro_sem_vitima_2015",
+      "lado": "antes"
+    },
+    "registro_transicao_2015": {
+      "fronteira": "registro_sem_vitima_2015",
+      "lado": "transicao"
+    },
+    "registro_reduzido_2016_2017": {
+      "fronteira": "registro_sem_vitima_2015",
+      "lado": "depois"
+    },
+    "registro_transicao_2018": {
+      "fronteira": "registro_sem_vitima_2018",
+      "lado": "transicao"
+    },
+    "registro_minimo_2019_2025": {
+      "fronteira": "registro_sem_vitima_2018",
+      "lado": "depois"
+    },
+    "com_vitima_harmonizado_2007_2025": {
+      "fronteira": "registro_sem_vitima_2018",
+      "lado": "atravessa_harmonizado",
+      "fronteiras_atravessadas": [
+        "registro_sem_vitima_2015",
+        "registro_sem_vitima_2018",
+        "layout_colunas_2016",
+        "layout_colunas_2017"
+      ]
+    }
+  },
+  "ressalvas": {
+    "total_bruto_nao_comparavel": "O total bruto não é comparável ao longo da série — a queda de 62,3% entre 2011 e 2025 é 89,8% queda de registro de acidente sem vítima, com degraus de um mês em jul/2015 e abr/2018; a série comparável é com_vitima_por_ano.",
+    "causa_acidente_serie_longa": "causa_acidente não é publicável em série longa — 11 rótulos até 2016, 24 em 2017, 75 em 2023, 69 em 2025, sem tabela de correspondência da fonte.",
+    "tipo_acidente_serie_longa": "tipo_acidente também não — renomeação em bloco de 8 rótulos em 2017 e Sinistro pessoal de trânsito novo em 2024.",
+    "universo_rodovia_federal": "O universo é rodovia federal policiada pela PRF, não o trânsito brasileiro: o nível absoluto não se compara com DATASUS, Detran nem com a família pbh-acidentes-* (que é município).",
+    "greve_caminhoneiros_maio_2018": "Maio/2018 é a greve dos caminhoneiros, um vale real de tráfego que cai logo depois do degrau administrativo de abril — não confundir os dois.",
+    "crescimento_2007_2011": "O crescimento de 2007 a 2011 não é separável entre aumento real de acidentes (frota e mortes cresceram junto) e ampliação de cobertura de registro, e por isso o achado desta rodada é lido de 2011 (o pico) em diante.",
+    "safra_parcial_2026": "2026 é safra parcial (7 meses) e por isso está no manifest e fora de toda série.",
+    "republicacao_mensal_gdrive": "A PRF republica os arquivos mensalmente e distribui por Google Drive — os IDs de arquivo podem mudar e o sha256 de um ano já fechado pode mudar; se mudar, é erro duro e vira achado, não conserto silencioso."
+  },
+  "licenca": "não declarada pela fonte"
+}

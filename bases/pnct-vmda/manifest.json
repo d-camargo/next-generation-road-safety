@@ -1,0 +1,134 @@
+{
+  "slug": "pnct-vmda",
+  "nome": "Volume Médio Diário Anual (VMDa) do PNCT/DNIT",
+  "autor": "DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES (DNIT)",
+  "url": "https://servicos.dnit.gov.br/dadospnct",
+  "periodicidade": "anual",
+  "descricao": "Volume Médio Diário Anual (VMDa) estimado/contado por trecho do SNV, publicado anualmente pelo Programa Nacional de Contagem de Tráfego (PNCT) do DNIT. Download efetivo via API do PNCT (servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/), parâmetro 'path' — ver FONTE.md.",
+  "arquivos": [
+    {
+      "ano": 2017,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2017/VMDa%202017.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2017.xlsx",
+      "tamanho_bytes": 6852400,
+      "sha256": "f37112eee44ff4f9902a88758af6540f40952286876f7fc69a65bb25f07d35ad",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2018,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2018/VMDa%202018.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2018.xlsx",
+      "tamanho_bytes": 2945263,
+      "sha256": "6f44e52e4f5a52b6ab014718d5d7f11419b2c63cc9667e52e85dcc9120c543ba",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2019,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2019/VMDa%202019.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2019.xlsx",
+      "tamanho_bytes": 3080171,
+      "sha256": "4d3aeb342354b5982f007f597964795e87b6f79de5d152d4de2ae78820760e36",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2020,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2020/VMDa%202020.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2020.xlsx",
+      "tamanho_bytes": 3188096,
+      "sha256": "fdc8fbdb7e09b4de996a20d85562e7a3164206a41d7985324134a505e80116ef",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2021,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2021/VMDa%202021.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2021.xlsx",
+      "tamanho_bytes": 3673256,
+      "sha256": "a32d833436ee15f25caeaa4c3cc1a15aa5ad7e8255a9499bd025d9af46369999",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2022,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2022/VMDa%202022.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2022.xlsx",
+      "tamanho_bytes": 2025963,
+      "sha256": "65f4935b7d7f3fab687e03565a47ac3b859d1841380fcbc2f6c547395b92a1ca",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2023,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2023/VMDa%202023.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2023.xlsx",
+      "tamanho_bytes": 1925286,
+      "sha256": "7f0fa88c1216acb056d1f2cb49e575fc2124ff38d49ccdb06e9a05e819353e97",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2024,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2024/VMDa%202024.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2024.xlsx",
+      "tamanho_bytes": 2151856,
+      "sha256": "fbd4bdb3cc57a3c1387a1f454dbc07680401d31870dff610fca7057245f8586c",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    },
+    {
+      "ano": 2025,
+      "url": "https://servicos.dnit.gov.br/dadospnct-api/api/v1/downloads/file?path=Volume%20M%C3%A9dio%20Di%C3%A1rio%20Anual%20%28VMDa%29/2025/VMDa%202025.xlsx",
+      "arquivo_local": "raw/pnct-vmda/VMDa_2025.xlsx",
+      "tamanho_bytes": 2331083,
+      "sha256": "8f61db4bc59a34dea90ef4903ca73fba7e348c278af9ce60003af06742020cde",
+      "data_acesso": "2026-09-07",
+      "formato": "XLSX"
+    }
+  ],
+  "series": {
+    "vmda_mg_por_trecho_2017_2025.csv": {
+      "serie": "vmda_mg_por_trecho",
+      "coluna_chave": "chave_linha",
+      "coluna_valor": "contagem_trecho",
+      "coluna_ano": "ano",
+      "coluna_escopo": "escopo",
+      "coluna_harmonizada": "harmonizada"
+    },
+    "vmda_corredores_por_trecho_2017_2025.csv": {
+      "serie": "vmda_corredores_por_trecho",
+      "coluna_chave": "chave_linha",
+      "coluna_valor": "contagem_trecho",
+      "coluna_ano": "ano",
+      "coluna_escopo": "escopo",
+      "coluna_harmonizada": "harmonizada"
+    }
+  },
+  "mudancas_metodologicas": [
+    {
+      "id": "recorte_inicia_2017",
+      "harmonizavel": false,
+      "ano_anterior": 2016,
+      "ano_mudanca": 2017,
+      "descricao": "Fronteira técnica, não uma mudança de metodologia real: existe pasta '2016' na API do PNCT, mas o recorte desta base começa em 2017 por decisão de escopo desta apuração (ver FONTE.md). Declarada só para satisfazer o requisito do schema genérico de bin/build_db.py (todo escopo precisa referenciar uma fronteira). A pegadinha REAL de comparabilidade desta base não é um degrau único num ano — é o crescimento contínuo da malha modelada do PNCT ao longo de toda a série (2017-2025) e a mudança na composição por jurisdição (federal/estadual/municipal) que essa malha carrega ano a ano — por isso não é modelada aqui como uma fronteira harmonizável/não-harmonizável pontual; está documentada em prosa em FONTE.md desta base e em bases/prf-acidentes/METODO-ESPACIAL.md."
+    }
+  ],
+  "escopos": {
+    "vmda_bruto_2017_2025": {
+      "fronteira": "recorte_inicia_2017",
+      "lado": "depois"
+    },
+    "vmda_corredores_bruto_2017_2025": {
+      "fronteira": "recorte_inicia_2017",
+      "lado": "depois"
+    }
+  },
+  "ressalvas": {
+    "malha_cresce_ano_a_ano": "A malha modelada do PNCT cresce ano a ano (não é um degrau único) — Moran/estatística espacial por ano é legítimo, comparar o resultado ENTRE anos não é, sem restringir a um painel balanceado (ver bases/prf-acidentes/METODO-ESPACIAL.md).",
+    "composicao_por_jurisdicao_muda": "A composição por jurisdição (federal/estadual/municipal) dentro do mesmo arquivo anual muda de ano para ano (ex.: 2018 só traz jurisdição federal; 2024 já mistura federal/estadual/municipal) — não é só a malha crescendo, é o tipo de via modelada mudando.",
+    "2021_sem_km": "2021 tem um formato de planilha radicalmente diferente dos demais anos (colunas maiúsculas, bem mais linhas) e não traz km_inicial/km_final — a chave de junção br+km não funciona para esse ano.",
+    "geh_ausente_2017_2018": "2017 e 2018 não trazem o campo GEH (contado x modelado)."
+  }
+}

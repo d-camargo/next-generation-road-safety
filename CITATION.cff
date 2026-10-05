@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: >-
+  If you use this data or code, please cite both this repository
+  (Zenodo DOI) and the paper.
+title: 'Next-Generation Road Safety — companion data & code: exposure coverage autocorrelation and hot-spot validity in network crash mapping'
+type: dataset
+authors:
+  - family-names: Camargo
+    given-names: Diego
+    email: diegocamargo@cefetmg.br
+    affiliation: Centro Federal de Educação Tecnológica de Minas Gerais (CEFET-MG)
+repository-code: 'https://github.com/d-camargo/next-generation-road-safety'
+abstract: >-
+  Derived panel datasets, spatial statistics outputs, publication figures and
+  the full replication pipeline for the study of exposure-coverage
+  autocorrelation and hot-spot validity in network crash mapping on ten
+  Brazilian federal corridors (2017-2025). Panel bins of 5/10/20 km keyed by
+  (br, uf, km); crash counts from PRF open data (BAT); exposure from PNCT/DNIT
+  annual AADT; global Moran and LISA with FDR local correction; conditional
+  association and sampling-precision analyses. Data under CC-BY-4.0
+  (LICENSE-DATA), code under MIT (LICENSE).
+keywords:
+  - road safety
+  - spatial autocorrelation
+  - exposure coverage
+  - measurement error
+  - Moran's I
+  - LISA
+  - empirical Bayes
+  - Brazil
+  - PRF
+  - DNIT
+license: MIT
+version: 1.0.0
+date-released: '2026-10-05'

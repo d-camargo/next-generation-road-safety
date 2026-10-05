@@ -1,0 +1,18 @@
+{
+  "script": "bin/associacao_corredores.py",
+  "gerado_em": "2026-10-04T11:49:47.271118+00:00",
+  "painel_caminho": "/home/diego/projects/dados/build/painel_corredores.csv",
+  "painel_sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5",
+  "sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5",
+  "painel": {
+    "caminho": "/home/diego/projects/dados/build/painel_corredores.csv",
+    "sha256": "daade41345e9b9ee1ebc958ce0b7482dd8abd3c8c0328a3235abb2548b79d6d5"
+  },
+  "permutacoes": 9999,
+  "versoes": {
+    "esda": "2.10.0",
+    "libpysal": "4.15.0",
+    "scipy": "1.18.1"
+  },
+  "aviso_reprodutibilidade": "esda.Moran_BV não aceita semente; p_sim e z_sim variam ligeiramente entre execuções por simulação Monte Carlo. O valor I do Moran e as correlações de Pearson e Spearman são determinísticos."
+}

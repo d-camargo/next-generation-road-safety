@@ -1,0 +1,7 @@
+# brutos ficam nas fontes oficiais; só o manifest de proveniência entra
+raw/geo-referencia/*
+!raw/geo-referencia/manifest.json
+
+__pycache__/
+*.pyc
+.venv/
