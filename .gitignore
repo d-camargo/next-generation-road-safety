@@ -5,3 +5,8 @@ raw/geo-referencia/*
 __pycache__/
 *.pyc
 .venv/
+
+# regras de agente da casa: ficam no disco (teste ~/.hermes), fora da publicação
+GEMINI.md
+CLAUDE.md
+AGENTS.md
